@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      Its project tusvel with hareon
+      Its project buy Sanya and Youra, its App.tsx file.
     </>
   )
 }
